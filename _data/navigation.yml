@@ -1,4 +1,9 @@
-- title: Blog
-  url: /
-- title: About
-  url: /about/
+# Site navigation links
+
+
+- title: Experiences
+  url: /experiences/
+
+- title: Projects
+  url: /projects/
+
